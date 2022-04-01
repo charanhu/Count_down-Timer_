@@ -4,6 +4,8 @@ import datetime
 import os
 import sys
 
+#countdown timer
+
 def main():
     print("This is a timer")
     print("Enter the time in seconds")
